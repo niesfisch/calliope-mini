@@ -4,6 +4,7 @@ tips and tricks around the calliope mini computer
 # links
 - https://calliope.cc/en
 - https://lab.open-roberta.org/#
+- https://calliopemini.info/index.php
 
 # helpers
 
